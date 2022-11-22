@@ -1,170 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T19:32:12.216Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2vnIE5bmRfrPkMCriI15" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T11:42:59.860Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XKYQoV3exW6q72_O15VC" version="20.5.3" type="github">
   <diagram id="u6YQk3y8lA5HU87S2UJb" name="Page-1">
-    <mxGraphModel dx="1487" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="615" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_L47RUnGu72H0CVm0GRs-2" value="Screen 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-2" value="Screen 2" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="20" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-5" value="I can help you with the &lt;br&gt;following.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Cement&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Steel&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Pipes&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Lime&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Electrical&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-2">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-5" value="I can help you with the &lt;br&gt;following.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Cement&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Steel&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Pipes&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Lime&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Electrical&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-2" vertex="1">
           <mxGeometry x="10" y="50" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-40" value="99 Back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-2">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-40" value="99 Back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-2" vertex="1">
           <mxGeometry y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-19" target="_L47RUnGu72H0CVm0GRs-26">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-19" target="_L47RUnGu72H0CVm0GRs-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-19" value="Screen 4" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-19" value="Screen 4" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="20" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-20" value="How many bags of &lt;br&gt;cement would you like &lt;br&gt;to order?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-19">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-20" value="How many bags of &lt;br&gt;cement would you like &lt;br&gt;to order?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-19" vertex="1">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-21" value="User: 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-19">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-21" value="User: 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-19" vertex="1">
           <mxGeometry x="30" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-27" value="100 bags of Cement &lt;br&gt;put in cart.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-19">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-27" value="100 bags of Cement &lt;br&gt;put in cart.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-19" vertex="1">
           <mxGeometry x="10" y="120" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-25" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-25" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-26" target="_L47RUnGu72H0CVm0GRs-42">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-26" target="_L47RUnGu72H0CVm0GRs-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-26" value="Screen 5" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-26" value="Screen 5" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="270" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-41" value="What else would you&amp;nbsp;&lt;br&gt;like to order?&lt;br&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;1. Blue Triangle - 430&lt;br&gt;2. Simba cement - 450&lt;br&gt;3. Bamburi - 500&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;99 Back &lt;br&gt;00 Main menu&lt;br&gt;50 Checkout&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-26">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-41" value="What else would you&amp;nbsp;&lt;br&gt;like to order?&lt;br&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;1. Blue Triangle - 430&lt;br&gt;2. Simba cement - 450&lt;br&gt;3. Bamburi - 500&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;99 Back &lt;br&gt;00 Main menu&lt;br&gt;50 Checkout&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-26" vertex="1">
           <mxGeometry x="10" y="30" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-33" target="_L47RUnGu72H0CVm0GRs-75">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-33" target="_L47RUnGu72H0CVm0GRs-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-33" value="Screen 1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-33" value="Screen 1" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-34" value="Hello, How can I help&lt;br&gt;you today?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-33">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-34" value="Hello, How can I help&lt;br&gt;you today?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-33" vertex="1">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-37" value="I can help you with the &lt;br&gt;following" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-33">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-37" value="I can help you with the &lt;br&gt;following" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-33" vertex="1">
           <mxGeometry y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Order&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Tracking your order&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-33">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Order&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Tracking your order&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-33" vertex="1">
           <mxGeometry y="110" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-33" target="_L47RUnGu72H0CVm0GRs-2">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_L47RUnGu72H0CVm0GRs-33" target="_L47RUnGu72H0CVm0GRs-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="250" as="sourcePoint" />
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-42" target="_L47RUnGu72H0CVm0GRs-61">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-42" target="_L47RUnGu72H0CVm0GRs-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-42" target="_L47RUnGu72H0CVm0GRs-66">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-42" target="_L47RUnGu72H0CVm0GRs-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-42" value="Screen 6" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-42" value="Screen 6" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="530" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-43" value="Checkout&lt;br&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags - 50,000&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;For Delivery, reply with 1.&lt;br&gt;Otherwise, order confirm &lt;br&gt;for self collect&lt;br&gt;&lt;br&gt;1. Delivery&lt;br&gt;99 Back&lt;br&gt;40 Confirm&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-42">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-43" value="Checkout&lt;br&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags - 50,000&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;For Delivery, reply with 1.&lt;br&gt;Otherwise, order confirm &lt;br&gt;for self collect&lt;br&gt;&lt;br&gt;1. Delivery&lt;br&gt;99 Back&lt;br&gt;40 Confirm&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-42" vertex="1">
           <mxGeometry x="5" y="20" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-45" value="Screen 3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-45" value="Screen 3" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="20" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-46" value="The Cement varieties &lt;br&gt;available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-45">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-46" value="The Cement varieties &lt;br&gt;available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-45" vertex="1">
           <mxGeometry y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-53" value="1. Blue Triangle - 430&lt;br&gt;2. Simba cement - 450&lt;br&gt;3. Bamburi - 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-45">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-53" value="1. Blue Triangle - 430&lt;br&gt;2. Simba cement - 450&lt;br&gt;3. Bamburi - 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-45" vertex="1">
           <mxGeometry x="10" y="80" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-54" value="99 Back 00 Main Menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-45">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-54" value="99 Back 00 Main Menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-45" vertex="1">
           <mxGeometry x="-5" y="160" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-50" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="126" as="sourcePoint" />
             <mxPoint x="500" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-51" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-51" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-45" target="_L47RUnGu72H0CVm0GRs-19">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_L47RUnGu72H0CVm0GRs-45" target="_L47RUnGu72H0CVm0GRs-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="330" as="sourcePoint" />
             <mxPoint x="680" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-55" value="Opt 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-55" value="Opt 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="90" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-58" value="50. Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-58" value="50. Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-61" value="Screen 7a" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-61" value="Screen 7a" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="790" width="165" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-62" value="Order confirmed&lt;br&gt;&lt;br&gt;Order Number - 56RTS4&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 50,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status: Received&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-61">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-62" value="Order confirmed&lt;br&gt;&lt;br&gt;Order Number - 56RTS4&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 50,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status: Received&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-61" vertex="1">
           <mxGeometry x="7.5" y="20" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-66" target="_L47RUnGu72H0CVm0GRs-71">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-66" target="_L47RUnGu72H0CVm0GRs-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-66" value="Screen 7b" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-66" value="Screen 7b" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="530" width="165" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-67" value="&lt;span style=&quot;&quot;&gt;Please put in your location&lt;br&gt;&lt;br&gt;user: Nanyuki&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-66">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-67" value="&lt;span style=&quot;&quot;&gt;Please put in your location&lt;br&gt;&lt;br&gt;user: Nanyuki&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-66" vertex="1">
           <mxGeometry x="2.5" y="30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags - 50,000&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delivery fees ksh10,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total ksh60,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;40 Confirm&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;99. Back&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-66">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags - 50,000&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delivery fees ksh10,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total ksh60,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;40 Confirm&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;99. Back&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-66" vertex="1">
           <mxGeometry x="2.5" y="80" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-69" value="Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-69" value="Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="605" y="605" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-71" value="Screen 7b" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-71" value="Screen 7b" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="810" width="165" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-73" value="&lt;div style=&quot;&quot;&gt;Order confirmed&lt;br&gt;&lt;br&gt;Order Number - 56RTS4&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location: Nanyuki&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Delivery fee ksh 10,000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 60,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status: Received&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-71">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-73" value="&lt;div style=&quot;&quot;&gt;Order confirmed&lt;br&gt;&lt;br&gt;Order Number - 56RTS4&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location: Nanyuki&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Delivery fee ksh 10,000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 60,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status: Received&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-71" vertex="1">
           <mxGeometry x="7.5" y="35" width="150" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-75" target="_L47RUnGu72H0CVm0GRs-83">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-75" target="_L47RUnGu72H0CVm0GRs-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-75" value="Screen 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-75" target="AqpRhfNkFUm7rQHiL_tk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_L47RUnGu72H0CVm0GRs-75" value="Screen 2" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="300" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-76" value="Please put in your &lt;br&gt;order number&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-75">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-76" value="Please put in your &lt;br&gt;order number&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-75" vertex="1">
           <mxGeometry y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-81" value="User: 56RTS4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-75">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-81" value="User: 56RTS4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-75" vertex="1">
           <mxGeometry y="70" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-92" value="99. Back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-75">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-92" value="99. Back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-75" vertex="1">
           <mxGeometry x="10" y="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-80" value="Option 2 (This is for people&lt;br&gt;who did delivery)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-80" value="Option 2 (This is for people&lt;br&gt;who did delivery)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="250" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-83" value="Screen 3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-83" value="Screen 3a" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="150" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-84" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Order Number - 56RTS4&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Location: Nanyuki&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Delivery fee ksh 10,000&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 60,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status: Shipping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-83">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-84" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Order Number - 56RTS4&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Location: Nanyuki&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Bamburi Cement&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 100 bags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Delivery fee ksh 10,000&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total -&amp;nbsp; ksh 60,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status: Shipping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-83" vertex="1">
           <mxGeometry y="30" width="150" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-89" value="Screen 8" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-89" value="Screen 8" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438.25" y="1130" width="178.5" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-90" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Your order will be delivered&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in the next 48hrs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_L47RUnGu72H0CVm0GRs-89">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-90" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Your order will be delivered&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in the next 48hrs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_L47RUnGu72H0CVm0GRs-89" vertex="1">
           <mxGeometry x="6.75" y="30" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_L47RUnGu72H0CVm0GRs-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_L47RUnGu72H0CVm0GRs-71" target="_L47RUnGu72H0CVm0GRs-89">
+        <mxCell id="_L47RUnGu72H0CVm0GRs-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_L47RUnGu72H0CVm0GRs-71" target="_L47RUnGu72H0CVm0GRs-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-1" value="Screen 3b" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="155" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-2" value="Please put in your &lt;br&gt;order number&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AqpRhfNkFUm7rQHiL_tk-1">
+          <mxGeometry y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-3" value="User: 56RTS4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AqpRhfNkFUm7rQHiL_tk-1">
+          <mxGeometry y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Thank you for being our&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;loyal customer&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AqpRhfNkFUm7rQHiL_tk-1">
+          <mxGeometry y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AqpRhfNkFUm7rQHiL_tk-6" value="Your order was self-collect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AqpRhfNkFUm7rQHiL_tk-1">
+          <mxGeometry x="-5" y="100" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
